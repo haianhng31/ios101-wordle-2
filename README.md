@@ -1,2 +1,1 @@
-# ios101-wordle-2
- 
+# ios101-project2-wordle-starter
